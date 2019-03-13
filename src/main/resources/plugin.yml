@@ -1,0 +1,11 @@
+name: StaffMode
+version: 1.0
+main: me.yolosanta.staffmode.StaffMode
+
+commands:
+  staff:
+    aliases:
+      - mod
+  dev:
+    aliases:
+      - yolosanta
